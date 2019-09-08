@@ -12,27 +12,27 @@ Create a row of 4 boxes 200px by 200px using flexbox, test out different ways to
 
 ### Challenge 3
 
-Build similar navbar with flexbox, add that to component library.
-
-Create a page with a navbar (with a height of 60px) and a container (with a height of 100vh) underneath the navbar, you'll need to look up CSS calc for an elegant solution in making sure the page doesn't scroll at all.
+Build a similar navbar to the image below with flexbox. Add it to your component library.
 
 ![](https://dl.dropboxusercontent.com/s/qxtopzvw9s440ua/navbar.png?dl=0)
 
 ### Challenge 4
+- Flexbox Zombies: https://mastery.games/p/flexbox-zombies
+  - Jump on that link and click 'master flex box for FREE'
+  - You will have to sign up, but you can use a fake email if you'd like, as they don't send you a link (but make sure you remember, as you can log back in and track your progress)
+  - Keep getting those zombies - super good way to get your head around it!
 
-Redo landing page from yesterday with flexbox.
+* When you get bored of the zombies: https://flexboxfroggy.com/
 
 ### Challenge 5
 
-Create a form (username, password and submit) using CSS flexbox (column as the flex direction) Make it look something like the bootstrap form component (doesn't have to be precise) Centre the form in the middle of the page.
-
-![](https://dl.dropboxusercontent.com/s/4p2f6vfgt6hk1ob/form.png?dl=0)
+Create a page with a navbar (with a height of 60px) and a container (with a height of 100vh) underneath the navbar. You'll need to look up CSS `calc` for an elegant solution in making sure the page doesn't scroll at all.
 
 ### Challenge 6
 
-Build a gmail style inbox layout with flexbox
+Create a similar form to the image below (with a username, password and submit button) using CSS flexbox. It will have `column` setup as the `flex-direction`. Centre the form in the middle of the page.
 
-![](https://dl.dropboxusercontent.com/s/khbvfa4kn8hv5bn/inbox.png?dl=0)
+![](https://dl.dropboxusercontent.com/s/4p2f6vfgt6hk1ob/form.png?dl=0)
 
 ### Challenge 7
 
