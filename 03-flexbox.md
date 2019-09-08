@@ -34,15 +34,26 @@ Create a similar form to the image below (with a username, password and submit b
 ![](https://dl.dropboxusercontent.com/s/4p2f6vfgt6hk1ob/form.png?dl=0)
 
 ### Challenge 7
+- Read through chapters 7 to 9 of the [interneting is hard documentation](https://internetingishard.com).
+
+### Challenge 8
 
 Build a card style product page with flexbox.
 
 ![](https://dl.dropboxusercontent.com/s/u84bvcewozz711g/products-page.png?dl=0)
 
-### Challenge 8
+### Challenge 9
 
 Create this layout with flexbox.
 
 In the map section add a Google Map using the [Google Maps API](https://cloud.google.com/maps-platform/maps/).
 
 ![](https://media.giphy.com/media/ygx418kE1s656bTCZp/giphy.gif)
+
+### Challenge 10
+
+Watch all of [Wes Bos's flexbox tutorials](https://flexbox.io/).
+
+### Challenge 11
+
+Complete all of the [freecodecamp flexbox challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox).

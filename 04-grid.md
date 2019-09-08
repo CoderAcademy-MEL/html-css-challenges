@@ -34,3 +34,9 @@ Take a look at some of Jen Simmons work. She's one of the founders of CSS grid a
 - [Product layout](https://labs.jensimmons.com/2017/03-009.html)
 - [Monopoly board](https://labs.jensimmons.com/2017/01-005.html)
 - [Differently sized items](https://labs.jensimmons.com/2017/01-009K.html)
+
+### Challenge 6
+
+Recreate this design using CSS grid.
+
+![](https://dl.dropboxusercontent.com/s/f7wqs40w277onci/grid_challenge.png?dl=0)
