@@ -1,6 +1,6 @@
 ### Challenge 1
 
-Finish off the grid so it looks the same as what I have in figma. This is the [code we ran through in the lecture.](https://gist.github.com/4671a6b9ace9d83ed91e7312a0b52e36)
+Implement the layout in the image below using CSS grid.
 
 ![](https://dl.dropboxusercontent.com/s/ieggx629mxtxs59/grid-1.png?dl=0)
 

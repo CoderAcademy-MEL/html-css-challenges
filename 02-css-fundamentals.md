@@ -77,7 +77,7 @@ At a bigger view make the navbar have 4 different links. Have the logo left alig
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
 
 ### Challenge 9
-- Build a Responsive Website using Media Queries
+- Build a responsive website using media queries
 - Create a site about your favorite recipe
 - You may use whichever layout and styling you please, but it must be fully mobile responsive (for both phone and tablet)
 - It must contain the following:

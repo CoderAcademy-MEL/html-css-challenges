@@ -6,7 +6,7 @@ Create a centred box (500px by 500px) in the middle of full width page using fle
 
 ### Challenge 2
 
-Create a row of 4 boxes 200px by 200px using flexbox, test out different ways to justify them (center, flex-end, space-around).
+Create a row of 4 boxes 200px by 200px using flexbox. Test out different ways to justify them (center, flex-end, space-around).
 
 ![](https://dl.dropboxusercontent.com/s/9tdzjo4ir5rwrso/flexbox-row.png?dl=0)
 
@@ -17,12 +17,11 @@ Build a similar navbar to the image below with flexbox. Add it to your component
 ![](https://dl.dropboxusercontent.com/s/qxtopzvw9s440ua/navbar.png?dl=0)
 
 ### Challenge 4
-- Flexbox Zombies: https://mastery.games/p/flexbox-zombies
+- Flexbox zombies https://mastery.games/p/flexbox-zombies
   - Jump on that link and click 'master flex box for FREE'
   - You will have to sign up, but you can use a fake email if you'd like, as they don't send you a link (but make sure you remember, as you can log back in and track your progress)
-  - Keep getting those zombies - super good way to get your head around it!
-
-* When you get bored of the zombies: https://flexboxfroggy.com/
+  - Keep getting those zombies; super good way to get your head around it!
+  - When you get bored of the zombies try flexbox froggy https://flexboxfroggy.com/
 
 ### Challenge 5
 
@@ -42,7 +41,7 @@ Build a card style product page with flexbox.
 
 ### Challenge 8
 
-Create this layout with flexbox
+Create this layout with flexbox.
 
 In the map section add a Google Map using the [Google Maps API](https://cloud.google.com/maps-platform/maps/).
 
