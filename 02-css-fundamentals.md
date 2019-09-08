@@ -77,7 +77,7 @@ At a bigger view make the navbar have 4 different links. Have the logo left alig
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
 
 ### Challenge 9
-- Build a responsive website using media queries
+- Build a Responsive Website using Media Queries
 - Create a site about your favorite recipe
 - You may use whichever layout and styling you please, but it must be fully mobile responsive (for both phone and tablet)
 - It must contain the following:
@@ -85,15 +85,3 @@ At a bigger view make the navbar have 4 different links. Have the logo left alig
   - List of ingredients
   - Instructions for preparing the dish
 - Compare your website to [The Web Accessibility Checklist](https://a11yproject.com/checklist/), and work out how to make it more accessible
-
-### Challenge 10
-- Update and improve your band tribute site using the skills you've learned so far
-- Create a new git branch for the new features
-- Create an external stylesheet and link it to the HTML
-- Add IDs and classes to elements as needed (Remember to limit the use of IDs)
-- Choose two Google fonts (one for headings, one for everything else), add them to your site
-- Set font colors, background colors and background images where appropriate
-- Re-organize your HTML into semantic elements (eg. navbar in a nav element, footer in a footer element, etc...)
-- Add margins, padding and borders to elements
-- Use positioning and/or floats to layout items in multiple columns or a grid (eg. discography)
-- Make your navbar and footer fixed position elements
