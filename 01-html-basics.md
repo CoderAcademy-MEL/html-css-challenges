@@ -6,7 +6,6 @@ Elements you should include on your site:
 
 - A homepage (index.html) featuring a photo of the band and a brief description of the band
   - Some ideas for a description could be how it got started or genre of music
-
 - A discography page showing an ordered list of 3 studio albums (in order of release date) with a photo (album cover), title and track listing for each.
 - A bio page showing an unordered list of the band members with photo, name and instrument/role of each.
 - A nav bar with links to the 3 pages.
@@ -17,6 +16,7 @@ Elements you should include on your site:
 - Your page should validate in the [W3 Validator](https://validator.w3.org/#validate_by_input)
 
 ### Challenge 2
+
 - Complete the [freecodecamp html curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
 
 ### Challenge 3
@@ -30,6 +30,7 @@ Elements you should include on your site:
 This is some text.
 
 ### Tasks 
+
 1. Teach class 
 2. Complete challenges
 
