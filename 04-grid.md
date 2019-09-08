@@ -6,36 +6,31 @@ Implement the layout in the image below using CSS grid.
 
 ### Challenge 2
 
-Recreate this business dashboard.
+Recreate this business dashboard shown in the image below.
 
-The pie chart can just be a circle (way too hard to do it in css 😳).
+The pie chart can just be a circle if you're wanting to focus on implementing CSS grid only however making pie charts will soon be easier with the `conic-gradient` property. Give it a crack by reading the [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient).
 
-Note: you don't have to recreate the whole page, just the middle part.
+It's only supported by Chrome currently.
 
 ![](https://dl.dropboxusercontent.com/s/1xqqyj8n5e7mb9n/grid-2.png?dl=0)
 
 ### Challenge 3
 
-Recreate this health dashboard.
+Recreate the health dashboard in the image below.
 
 ![](https://dl.dropboxusercontent.com/s/m0aqrfmhn6z0ef9/grid-3.png?dl=0)
 
 ### Challenge 4
 
-Recreate this sales dashboard.
+Create a chess board using css grid.
 
-![](https://dl.dropboxusercontent.com/s/iskqeuukvgqaril/grid-4.png?dl=0)
+Look up the `nth-child` pseudo class to elegantly get the job done.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chess_Board.svg/1920px-Chess_Board.svg.png)
 
 ### Challenge 5
 
-Create a chess board (or checkers) using css grid.
-
-Look up the `nth-child` pseudo class to get the job done.
-
-### Challenge 6
-
-Re-do one of your card components in css grid.
-
-### Challenge 7
-
-Recreate [this website.](https://www.fortherecord.simonfosterdesign.com/)
+Take a look at some of Jen Simmons work. She's one of the founders of CSS grid and has some cool stuff on [her website](https://labs.jensimmons.com/). Try and implement your own versions of her:
+- [Product layout](https://labs.jensimmons.com/2017/03-009.html)
+- [Monopoly board](https://labs.jensimmons.com/2017/01-005.html)
+- [Differently sized items](https://labs.jensimmons.com/2017/01-009K.html)
