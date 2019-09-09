@@ -12,9 +12,9 @@ You'll need to research: background images, linear gradient, setting heights for
 
 ### Challenge 3
 
-Create a website that has a fixed nav like the image below. 
+Create a website that has a fixed nav like the image below. By fixed nav I mean the navigation bar will always display and the content below it will scroll underneath.
 
-The links should allow you to jump to different points on the page. Think about what an appropriate `font-family` and `font-size`.
+The links should allow you to jump to different points on the page. You'll need to use an `id` for this.
 
 ![](https://dl.dropboxusercontent.com/s/ex8s0rroexvub90/fixed-navbar.png?dl=0)
 
