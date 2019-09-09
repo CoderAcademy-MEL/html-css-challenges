@@ -38,19 +38,21 @@ We'll be creating multiple button, card, badge and label components to make a re
 
 #### Specs
 
-Firstly, go find some components that inspire you. I like to use [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) or [Google's Material Design](https://material.io/design/).  
+Firstly, go find some components that inspire you. I like to use [Dribbble](https://dribbble.com/shots/popular/web-design) for inspiration.  
 
 Secondly, implement these designs in raw HTML and CSS.
 
 #### To do
-- 3 buttons designs
+- 3 button designs
 - 2 card designs
-- 2 label designs
+- 2 badge designs
 - 2 alert designs 
+
+For more information on what these components might look like check out the [Bootstrap library](https://getbootstrap.com/docs/4.3/components/alerts/).
 
 You'll end up with something like the below.
 
-Use the `@import` syntax for these components. So you'll end up having a `style.css` that imports `button.css`, `card.css`, `label.css` and `alert.css`
+Use the `@import` syntax for these components. So you'll end up having a `style.css` that imports `button.css`, `card.css`, `badge.css` and `alert.css`
 
 ![](https://dl.dropboxusercontent.com/s/rs4co9uk1a6drlr/components.png?dl=0)
 
