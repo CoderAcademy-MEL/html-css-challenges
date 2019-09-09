@@ -1,5 +1,11 @@
 ### Challenge 1
 
+Create a blog page like the image below. Try to implement the fonts, colors and margins as closely as possible.
+
+![](https://www.dropbox.com/s/le9mx7tqpagho5p/basic_css_challenge.png?dl=0)
+
+#### Optional 
+
 Complete all of the [freecodecamp basic css challenges](https://learn.freecodecamp.org/responsive-web-design/basic-css/).
 
 ### Challenge 2
@@ -40,11 +46,11 @@ Secondly, implement these designs in raw HTML and CSS.
 - 3 buttons designs
 - 2 card designs
 - 2 label designs
-- 1 badge design 
+- 2 alert designs 
 
 You'll end up with something like the below.
 
-Use the `@import` syntax for these components. So you'll end up having a `style.css` that imports `button.css`, `card.css`, `label.css` and `badge.css`
+Use the `@import` syntax for these components. So you'll end up having a `style.css` that imports `button.css`, `card.css`, `label.css` and `alert.css`
 
 ![](https://dl.dropboxusercontent.com/s/rs4co9uk1a6drlr/components.png?dl=0)
 
