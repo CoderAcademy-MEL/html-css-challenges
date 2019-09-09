@@ -26,9 +26,9 @@ The links should allow you to jump to different points on the page. You'll need 
 
 ### Challenge 4
 
-Create a website with a fixed scroll-able sidebar like the image below.
+Create a website with a fixed sidebar with scroll-able content like in the image below.
 
-![](https://dl.dropboxusercontent.com/s/d95wn114bgkcfng/fixed-sidebar.png?dl=0)
+![](https://dl.dropboxusercontent.com/s/d95wn114bgkcfng/fixed_sidebar.png)
 
 ### Challenge 5
 
