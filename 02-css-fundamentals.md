@@ -2,7 +2,7 @@
 
 Create a blog page like the image below. Try to implement the fonts, colors and margins as closely as possible.
 
-![](https://www.dropbox.com/s/le9mx7tqpagho5p/basic_css_challenge.png?dl=0)
+![](https://www.dl.dropboxusercontent.com/s/le9mx7tqpagho5p/basic_css_challenge.png)
 
 #### Optional 
 
