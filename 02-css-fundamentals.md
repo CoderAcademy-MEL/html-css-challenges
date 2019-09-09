@@ -1,12 +1,16 @@
 ### Challenge 1
 
+Complete all of the [freecodecamp basic css challenges](https://learn.freecodecamp.org/responsive-web-design/basic-css/).
+
+### Challenge 2
+
 Create a landing page like the image below.
 
 You'll need to research: background images, linear gradient, setting heights for backgrounds and the difference between margin and padding.
 
 ![](https://dl.dropboxusercontent.com/s/b0itdvgc0bobuv3/landing-page.png?dl=0)
 
-### Challenge 2
+### Challenge 3
 
 Create a website that has a fixed nav like the image below. 
 
@@ -14,13 +18,13 @@ The links should allow you to jump to different points on the page. Think about 
 
 ![](https://dl.dropboxusercontent.com/s/ex8s0rroexvub90/fixed-navbar.png?dl=0)
 
-### Challenge 3
+### Challenge 4
 
 Create a website with a fixed scroll-able sidebar like the image below.
 
 ![](https://dl.dropboxusercontent.com/s/d95wn114bgkcfng/fixed-sidebar.png?dl=0)
 
-### Challenge 4
+### Challenge 5
 
 **Overview**
 
@@ -44,13 +48,13 @@ You'll end up with something like the below.
 
 ![](https://dl.dropboxusercontent.com/s/rs4co9uk1a6drlr/components.png?dl=0)
 
-### Challenge 5
+### Challenge 6
 
 Recreate this dropdown menu using the hover pseudo class.
 
 ![](https://media.giphy.com/media/bkhMA1ulLgR2u6BNQv/giphy.gif)
 
-### Challenge 6
+### Challenge 7
 
 **Overview**
 
@@ -70,13 +74,13 @@ At mobile view (less than 600px) have just one item in navbar, a logo (can just 
 
 At a bigger view make the navbar have 4 different links. Have the logo left aligned and 4 different links right aligned.
 
-### Challenge 7
+### Challenge 8
 - Complete the [freecodecamp css curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-css).
 
-### Challenge 8
+### Challenge 9
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
 
-### Challenge 9
+### Challenge 10
 - Build a Responsive Website using Media Queries
 - Create a site about your favorite recipe
 - You may use whichever layout and styling you please, but it must be fully mobile responsive (for both phone and tablet)
