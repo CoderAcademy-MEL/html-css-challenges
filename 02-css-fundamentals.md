@@ -26,17 +26,17 @@ Create a website with a fixed scroll-able sidebar like the image below.
 
 ### Challenge 5
 
-**Overview**
+#### Overview
 
 We'll be creating multiple button, card, badge and label components to make a reusable library of different components.
 
-**Specs**
+#### Specs
 
 Firstly, go find some components that inspire you. I like to use [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) or [Google's Material Design](https://material.io/design/).  
 
 Secondly, implement these designs in raw HTML and CSS.
 
-**To do**
+#### To do
 - 3 buttons designs
 - 2 card designs
 - 2 label designs
@@ -81,11 +81,11 @@ At a bigger view make the navbar have 4 different links. Have the logo left alig
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
 
 ### Challenge 10
-- Build a Responsive Website using Media Queries
+- Build a responsive website using media queries
 - Create a site about your favorite recipe
 - You may use whichever layout and styling you please, but it must be fully mobile responsive (for both phone and tablet)
 - It must contain the following:
-  - An image of the dish, try unsplash.com
+  - An image of the dish
   - List of ingredients
   - Instructions for preparing the dish
-- Compare your website to [The Web Accessibility Checklist](https://a11yproject.com/checklist/), and work out how to make it more accessible
+- Compare your website to the [web accessibility checklist](https://a11yproject.com/checklist/), and work out how to make it more accessible
