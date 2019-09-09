@@ -75,12 +75,9 @@ At mobile view (less than 600px) have just one item in navbar, a logo (can just 
 At a bigger view make the navbar have 4 different links. Have the logo left aligned and 4 different links right aligned.
 
 ### Challenge 8
-- Complete the [freecodecamp css curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-css).
-
-### Challenge 9
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
 
-### Challenge 10
+### Challenge 9
 - Build a responsive website using media queries
 - Create a site about your favorite recipe
 - You may use whichever layout and styling you please, but it must be fully mobile responsive (for both phone and tablet)
