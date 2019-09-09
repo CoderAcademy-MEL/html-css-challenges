@@ -18,10 +18,10 @@ Build a similar navbar to the image below with flexbox. Add it to your component
 
 ### Challenge 4
 - Flexbox zombies https://mastery.games/p/flexbox-zombies
-  - Jump on that link and click 'master flex box for FREE'
-  - You will have to sign up, but you can use a fake email if you'd like, as they don't send you a link (but make sure you remember, as you can log back in and track your progress)
-  - Keep getting those zombies; super good way to get your head around it!
-  - When you get bored of the zombies try flexbox froggy https://flexboxfroggy.com/
+- Jump on that link and click 'learn flexbox for FREE'
+- You will have to sign up, but you can use a fake email if you'd like, as they don't send you a link (but make sure you remember, as you can log back in and track your progress)
+- Keep getting those zombies; super good way to get your head around it!
+- When you get bored of the zombies try flexbox froggy https://flexboxfroggy.com/
 
 ### Challenge 5
 
