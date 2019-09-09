@@ -12,7 +12,7 @@ Complete all of the [freecodecamp basic css challenges](https://learn.freecodeca
 
 Create a landing page like the image below.
 
-You'll need to research: background images, linear gradient, setting heights for backgrounds and the difference between margin and padding.
+You'll need to research: background images and linear gradient.
 
 ![](https://dl.dropboxusercontent.com/s/b0itdvgc0bobuv3/landing-page.png?dl=0)
 
@@ -64,23 +64,14 @@ Recreate this dropdown menu using the hover pseudo class.
 
 ### Challenge 7
 
-**Overview**
+This challenge will require the use of media queries.
 
-In this challenge you'll be playing with media queries.
-
-**Part 1**
-
-Create a page with a full width and full height blue background.
-
-When the page is less than 600px make it have a red background.
-
-**Part 2**
-
-Create another HTML page.
-
-At mobile view (less than 600px) have just one item in navbar, a logo (can just be a 50px by 50px circle) that's centre aligned and links somewhere.
-
-At a bigger view make the navbar have 4 different links. Have the logo left aligned and 4 different links right aligned.
+Follow these instructions:
+- Create a page with a full width and full height blue background
+- When the page is less than 600px make it have a red background
+- Create another HTML page.
+- At mobile view (less than 600px) have just one item in navbar, a logo (can just be a 50px by 50px circle) that's centre aligned and links somewhere.
+- At a bigger view make the navbar have 4 different links. Have the logo left aligned and 4 different links right aligned
 
 ### Challenge 8
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
