@@ -34,9 +34,7 @@ We'll be creating multiple button, card, badge and label components to make a re
 
 Firstly, go find some components that inspire you. I like to use [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) or [Google's Material Design](https://material.io/design/).  
 
-Secondly, recreate or remix these components in Figma.
-
-Lastly, implement these designs in raw HTML and CSS.
+Secondly, implement these designs in raw HTML and CSS.
 
 **To do**
 - 3 buttons designs
@@ -45,6 +43,8 @@ Lastly, implement these designs in raw HTML and CSS.
 - 1 badge design 
 
 You'll end up with something like the below.
+
+Use the `@import` syntax for these components. So you'll end up having a `style.css` that imports `button.css`, `card.css`, `label.css` and `badge.css`
 
 ![](https://dl.dropboxusercontent.com/s/rs4co9uk1a6drlr/components.png?dl=0)
 
