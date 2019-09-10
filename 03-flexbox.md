@@ -47,17 +47,17 @@ Think about what you'll use for your `flex-direction`. Centre the form in the mi
 
 ### Challenge 8
 
-The image below of eastbay.com is the goal.
+The image below of eastbay.com is the goal layout.
 
 ![](https://dl.dropboxusercontent.com/s/u84bvcewozz711g/products-page.png?dl=0)
 
-This is a tricky layout that will require lots of flexbox's. Start simple. Think about the CSS individual components are using.
+This is a tricky task that will require a lot of flexbox. Start simple. Think about the individual components the layout might be using.
 
-The top navbar with text could be its own flexbox. The filter section could be its own flexbox. The cards could also be its own flexbox. Lots of options.
+The top navbar with text could be its own flexbox. The filter section could be its own flexbox. The cards could also be their own flexbox 🤯. 
 
 The card section is a tough one. Think about making your flex children have the `width` and your inner card can take the `height` and `margin`.
 
-Here is some code I wrote last night which is the bare bones setup. Let me know if you have questions.
+Here is the result of some code I wrote that demonstrates a bare bones setup for the goal layout. Let me know if you have questions.
 
 ![](https://dl.dropboxusercontent.com/s/5cg6pcifoh6c4td/basketball.png)
 
