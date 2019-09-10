@@ -17,21 +17,22 @@ Build a similar navbar to the image below with flexbox. Add it to your component
 ![](https://dl.dropboxusercontent.com/s/qxtopzvw9s440ua/navbar.png?dl=0)
 
 ### Challenge 4
-- Flexbox zombies https://mastery.games/p/flexbox-zombies
-- Jump on that link and click 'learn flexbox for FREE'
-- You will have to sign up, but you can use a fake email if you'd like, as they don't send you a link (but make sure you remember, as you can log back in and track your progress)
-- Keep getting those zombies; super good way to get your head around it!
-- When you get bored of the zombies try flexbox froggy https://flexboxfroggy.com/
+- Complete the flexbox froggy game https://flexboxfroggy.com/
+
+### Optional
+- If you enjoyed flexbox froggy try flexbox zombies https://mastery.games/p/flexbox-zombies
 
 ### Challenge 5
 
-Create a page with a navbar (with a height of 60px) and a container (with a height of 100vh) underneath the navbar. You'll need to look up CSS `calc` for an elegant solution in making sure the page doesn't scroll at all.
+Create a page with a navbar (with a height of 60px) and a container (with a height of 100vh) underneath the navbar.
+
+You'll need to look up CSS `calc` for an elegant solution in making sure the page doesn't scroll at all.
 
 ### Challenge 6
 
 Create a similar form to the image below (with a username, password and submit button) using CSS flexbox. It will have `column` setup as the `flex-direction`. Centre the form in the middle of the page.
 
-![](https://dl.dropboxusercontent.com/s/4p2f6vfgt6hk1ob/form.png?dl=0)
+![](https://dl.dropboxusercontent.com/s/vq2l33ckop6xjza/form_flexbox.png)
 
 ### Challenge 7
 - Read through chapters 7 to 9 of the [interneting is hard documentation](https://internetingishard.com).
