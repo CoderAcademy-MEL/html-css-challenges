@@ -20,7 +20,7 @@ You'll need to research: background images and linear gradient.
 
 Create a website that has a fixed navigation like the image below. By fixed navigation I mean that the navigation bar will always display and the content below it will scroll underneath.
 
-The links should allow you to jump to different points on the page. You'll need to use an `id` for this.
+The links should allow you to jump to different points on the page. You'll need to use an `id` for this. Watch [this video](https://www.youtube.com/watch?v=P6XGCOI-IDY&feature=youtu.be) to visually see the behavior we're looking for.
 
 ![](https://dl.dropboxusercontent.com/s/ex8s0rroexvub90/fixed-navbar.png?dl=0)
 
