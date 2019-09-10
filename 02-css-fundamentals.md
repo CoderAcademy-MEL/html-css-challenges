@@ -12,7 +12,9 @@ Complete all of the [freecodecamp basic css challenges](https://learn.freecodeca
 
 Create a landing page like the image below.
 
-You'll need to research: background images and linear gradient.
+You'll need to research some new CSS properties like `background` and `background-size`.
+
+Also attempt to use `linear-gradient` with the background property.
 
 ![](https://dl.dropboxusercontent.com/s/b0itdvgc0bobuv3/landing-page.png?dl=0)
 
