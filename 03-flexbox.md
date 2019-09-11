@@ -71,8 +71,14 @@ In the map section add a Google Map using the [Google Maps API](https://cloud.go
 
 ### Challenge 10
 
-Watch all of [Wes Bos's flexbox tutorials](https://flexbox.io/).
+This is the challenge we'll be completing [throughout most of Monday](http://www.csszengarden.com/) and early Tuesday. Read through the documentation and look at some of the examples before you start.
+
+Put simply, the task is to download the HTML template that's provided and implement your own styling 🎨. If you're proud of your work I'd love for you to demo it to the class on Tuesday next week!
 
 ### Challenge 11
+
+Watch all of [Wes Bos's flexbox tutorials](https://flexbox.io/).
+
+### Challenge 12
 
 Complete all of the [freecodecamp flexbox challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox).
