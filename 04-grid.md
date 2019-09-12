@@ -10,7 +10,7 @@ Recreate this business dashboard shown in the image below.
 
 The pie chart can just be a circle if you're wanting to focus on implementing CSS grid only however making pie charts will soon be easier with the `conic-gradient` property. Give it a crack by reading the [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/conic-gradient).
 
-It's only supported by Chrome currently.
+It's only supported by Chrome and Safari currently. [This website](https://caniuse.com/#search=conic-gradient) is a great way to check what works on what browsers.
 
 ![](https://dl.dropboxusercontent.com/s/1xqqyj8n5e7mb9n/grid-2.png?dl=0)
 
