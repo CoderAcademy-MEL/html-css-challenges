@@ -1,6 +1,6 @@
 ## Make a webpage to sell your terminal app 🚀! 
 
-Your objective is to build a webpage implementing all the new CSS features we've learnt this week like flexbox.
+Your objective is to build a webpage implementing all the new CSS features we've learnt this week.
 
 You should structure your website into smaller components similar to what Aaron demonstrated today.
 
