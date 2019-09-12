@@ -4,7 +4,7 @@ Your objective is to build a webpage implementing all the new CSS features we've
 
 You should structure your website into smaller components similar to what Aaron demonstrated today.
 
-You will only use HTML and CSS to do this project (no JavaScript).
+You will only use HTML and CSS to do this project.
 
 Here are the things your webpage needs to have:
 
@@ -30,6 +30,6 @@ Here are the things your webpage needs to have:
 
 5. Clicking a `.nav-link` button in the nav element, the user will be taken to the corresponding section of the landing page
 
-6. Add a gallery section for your terminal app, this would contain images of the app in action, to get nice screen shots on MacOS use the command-shift-4 + spacebar trick.
+6. Add a gallery section for your terminal app, this would contain images of the app in action, to get nice screen shots on MacOS use the `command-shift-4` + `spacebar` trick.
 
 7. Add a footer html element at the bottom of the page with your contact details and links to your social accounts.
