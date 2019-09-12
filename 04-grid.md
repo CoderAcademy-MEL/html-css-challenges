@@ -2,7 +2,7 @@
 
 Implement the layout in the image below using CSS grid.
 
-![](https://dl.dropboxusercontent.com/s/ieggx629mxtxs59/grid-1.png?dl=0)
+![](https://dl.dropboxusercontent.com/s/c1sxndiqn3afa97/css_grid.png)
 
 ### Challenge 2
 
