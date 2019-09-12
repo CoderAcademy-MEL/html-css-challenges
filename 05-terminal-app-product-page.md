@@ -1,4 +1,4 @@
-## Make a webpage to sell your terminal app 🚀! 
+## Make a webpage to sell your terminal app 🚀 
 
 Your objective is to build a webpage implementing all the new CSS features we've learnt this week.
 
