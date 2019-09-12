@@ -10,7 +10,7 @@ Here are the things your webpage needs to have:
 
 1. Design a navbar
 -  There should be a nav element with a corresponding `id="navbar"`
-- The nav element should have at least three clickable items each within a `"nav-link"` class
+- The nav element should have at least three clickable items each within a `class="nav-link"`
 - Use font awesome to pick out an icon to use as a logo, change it's default color and size
 - Add a custom font using google fonts
 
