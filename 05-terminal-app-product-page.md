@@ -2,7 +2,7 @@
 
 Your objective is to build a webpage implementing all the new CSS features we've learnt this week.
 
-You should structure your website into smaller components similar to what Aaron demonstrated today.
+You should structure your website into smaller components similar to what Aaron demonstrated in the afternoon lecture.
 
 You will only use HTML and CSS to do this project.
 
