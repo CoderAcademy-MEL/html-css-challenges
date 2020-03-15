@@ -1,3 +1,22 @@
+## Introduction 
+
+Today I'll give you two paths to follow based on experience writing HTML. I'll leave the decision up to you.
+
+If you've never written HTML before I recommend completing the challenges in option one. These are online courses that are freely available. They will give you a good solid grounding of the basic HTML syntax.
+
+If you've written some HTML before today (which I'm assuming many of you have) please complete the challenges in option 2. If you finish these challenges early complete the workbook. 
+
+## Option 1
+
+### Challenge 1
+
+- Complete the [freecodecamp html curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
+
+### Challenge 2
+- Complete the [W3Schools](https://www.w3schools.com/html/exercise.asp) HTML exercises
+
+## Option 2 
+
 ### Challenge 1
 
 Create a website about your favorite band using the HTML skills you've just learnt 🥁. There's no need to do any styling.
@@ -16,10 +35,6 @@ Elements you should include on your site:
 - Your page should validate in the [W3 Validator](https://validator.w3.org/#validate_by_input)
 
 ### Challenge 2
-
-- Complete the [freecodecamp html curriculum](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/)
-
-### Challenge 3
 
 - Copy the markdown below and preview it in VSCode
 - Recreate what this looks like in HTML 
@@ -60,10 +75,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ```
 
-### Challenge 4
-- Read through first 3 chapters of the [interneting is hard documentation](https://internetingishard.com)
-
-### Challenge 5
+### Challenge 3
 - Recreate the form below
 - Ensure that it includes:
   - Simple text inputs
@@ -76,5 +88,5 @@ Content in the first column | Content in the second column
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/f/fe/Simple_form-2008-03-08.png)
 
-### Challenge 6
-- Complete the [W3Schools](https://www.w3schools.com/html/exercise.asp) HTML exercises
+### Challenge 4
+- Read through first 3 chapters of the [interneting is hard documentation](https://internetingishard.com)
