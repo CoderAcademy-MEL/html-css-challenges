@@ -14,15 +14,15 @@ Test out some different ways to align the boxes on the horizontal axis using `ju
 
 ### Challenge 3
 
-Build a similar card based layout using the video below as a reference.
+Build a similar navbar to the image below with flexbox. Add it to your component library you started yesterday.
 
-![](https://dl.dropboxusercontent.com/s/xtu0cdqv3y7qz2h/card-layout-flexbox.mov)
+![](https://dl.dropboxusercontent.com/s/qxtopzvw9s440ua/navbar.png?dl=0)
 
 ### Challenge 4
 
-Build a similar navbar to the image below with flexbox. Add it to your component library you started yesterday.
+Build a similar card based layout using the video below as a reference.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QGHpc95EZNQ" target="_blank"><img src="http://img.youtube.com/vi/QGHpc95EZNQ/0.jpg" alt="Flex box card view" width="600" height="400" border="10" /></a>
+https://youtu.be/QGHpc95EZNQ
 
 ### Challenge 5
 - Complete the flexbox froggy game https://flexboxfroggy.com/
