@@ -24,6 +24,15 @@ Build a similar card based layout using the video below as a reference.
 
 https://youtu.be/QGHpc95EZNQ
 
+Think about what you'll need to attack this problem.
+
+1. A `container` flexbox
+2. Children inside of the flexbox
+3. Media queries for the different sizes of the children based on screen sizes
+4. A background image inside of the child
+5. Content that sits just below the background image 
+6. Using margin to ensure that the edge of your children have the same vertical position as your header
+
 ### Challenge 5
 - Complete the flexbox froggy game https://flexboxfroggy.com/
 
