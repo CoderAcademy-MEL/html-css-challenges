@@ -62,7 +62,7 @@ Use the `@import` syntax for these components. So you'll end up having a `style.
 
 Recreate this dropdown menu using the hover pseudo class.
 
-![](https://media.giphy.com/media/bkhMA1ulLgR2u6BNQv/giphy.gif)
+![](https://camo.githubusercontent.com/27733f78a1906a3dcbadf1395b1cd9975bec36c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f626b684d4131756c4c6752327536424e51762f67697068792e676966)
 
 ### Challenge 7
 
