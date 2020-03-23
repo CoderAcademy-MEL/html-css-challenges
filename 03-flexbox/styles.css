@@ -1,0 +1,13 @@
+body {
+  background-color: purple;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  display: inline-block;
+}
+#one #two #three #four {
+  background-color: white;
+  position: relative;
+}

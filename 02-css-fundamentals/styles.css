@@ -1,0 +1,30 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+h2 {
+  font-weight: bold;
+}
+a:link {
+  color:cornflowerblue ;
+  background-color: transparent;
+  text-decoration: none;
+  text-decoration: underline;
+  padding-left: 4px;
+}
+.main {
+  width: 50vw;
+  padding-left: 25vw;
+}
+.buttons {
+  text-align: center;
+}
+.date {
+  color: grey;
+  font-size: 85%;
+}
