@@ -1,0 +1,14 @@
+.container {
+  display:flex;
+  background: purple;
+  width: 100vw;
+  height: 100vh;
+  justify-content: flex-start;
+  /* align-items: center; */
+}
+.box {
+  background: white;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}

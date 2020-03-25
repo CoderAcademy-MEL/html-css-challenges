@@ -18,11 +18,14 @@ a:link {
   padding-left: 4px;
 }
 .main {
-  width: 50vw;
-  padding-left: 25vw;
+  max-width: 700px;
+  margin: 0 auto;
 }
 .buttons {
-  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  max-width: 50%;
+  margin:0 auto;
 }
 .date {
   color: grey;
