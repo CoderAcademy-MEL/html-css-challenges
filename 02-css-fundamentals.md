@@ -10,29 +10,19 @@ Complete all of the [freecodecamp basic css challenges](https://learn.freecodeca
 
 ### Challenge 2
 
-Create a landing page like the image below.
-
-You'll need to research some new CSS properties like `background` and `background-size`.
-
-Also attempt to use `linear-gradient` with the background property.
-
-![](https://dl.dropboxusercontent.com/s/b0itdvgc0bobuv3/landing-page.png?dl=0)
-
-### Challenge 3
-
 Create a website that has a fixed navigation like the image below. By fixed navigation I mean that the navigation bar will always display and the content below it will scroll underneath.
 
 The links should allow you to jump to different points on the page. You'll need to use an `id` for this. Watch [this video](https://www.youtube.com/watch?v=P6XGCOI-IDY&feature=youtu.be) to visually see the behavior we're looking for.
 
 ![](https://dl.dropboxusercontent.com/s/ex8s0rroexvub90/fixed-navbar.png?dl=0)
 
-### Challenge 4
+### Challenge 3
 
 Create a website with a fixed sidebar with scroll-able content like in the image below.
 
 ![](https://dl.dropboxusercontent.com/s/d95wn114bgkcfng/fixed_sidebar.png)
 
-### Challenge 5
+### Challenge 4
 
 #### Overview
 
@@ -58,13 +48,13 @@ Use the `@import` syntax for these components. So you'll end up having a `style.
 
 ![](https://dl.dropboxusercontent.com/s/rs4co9uk1a6drlr/components.png?dl=0)
 
-### Challenge 6
+### Challenge 5
 
 Recreate this dropdown menu using the hover pseudo class.
 
 ![](https://camo.githubusercontent.com/27733f78a1906a3dcbadf1395b1cd9975bec36c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f626b684d4131756c4c6752327536424e51762f67697068792e676966)
 
-### Challenge 7
+### Challenge 6
 
 This challenge will require the use of media queries.
 
@@ -80,10 +70,10 @@ b.
 - Make the logo left aligned and the 4 different links right aligned inside of the nav
 - It should look something like this https://youtu.be/ClDK4xpDlAY
 
-### Challenge 8
+### Challenge 7
 - Read through chapters 4 to 6 of the [interneting is hard documentation](https://internetingishard.com).
 
-### Challenge 9
+### Challenge 8
 - Build a responsive website using media queries
 - Create a site about your favorite recipe
 - You may use whichever layout and styling you please, but it must be fully mobile responsive (for both phone and tablet)
