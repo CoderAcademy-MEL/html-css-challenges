@@ -62,7 +62,7 @@ Think about what you'll use for your `flex-direction`. Centre the form in the mi
 ![](https://dl.dropboxusercontent.com/s/vq2l33ckop6xjza/form_flexbox.png)
 
 ### Challenge 9
-- Read through chapters 7 to 9 of the [interneting is hard documentation](https://internetingishard.com).
+- Read through chapters 7 to 9 of the [interneting is hard documentation](https://internetingishard.netlify.app/html-and-css/flexbox/).
 
 ### Challenge 10
 
